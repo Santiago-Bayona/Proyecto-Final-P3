@@ -1,0 +1,3 @@
+id,nombre,email,password,tipo,equipo_id
+user_admin,Admin,admin@hackathon.com,admin123,mentor,
+user_mentor1,Carlos Mentor,carlos@hackathon.com,mentor123,mentor,
